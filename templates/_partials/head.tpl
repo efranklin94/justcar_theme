@@ -68,3 +68,37 @@
 {/block}
 
 {block name='hook_extra'}{/block}
+
+
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <!-- links -->
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css"
+        integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css"
+        integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous"/>
+  <link rel="stylesheet" href="css/owl.carousel.min.css">
+  <link rel="stylesheet" href="css/owl.theme.default.min.css">
+
+  <!-- seo -->
+  <!--مطالب زیر بعد از اتمام برنامه نویسی متناسب با سابت تکمیل شود
+  <meta name="description" content="توضیح در مورد این صفحه از سایت">
+  <meta name="keywords" content="کلمات کلیدی این صفحه از سایت">
+  <meta name="author" content="نام نویسنده مطالب سایت">
+  <meta name="owner" content="نام صاحب سایت">
+  <meta property="og:type" content="index"/>
+  <meta property="og:title" content="عنوان اشتراک گذاری">
+  <meta property="og:description" content="توضیح اشتراک گذاری">
+  <meta property="og:image" content="عکس اشتراک گذاری">
+  <meta property="og:url" content="ادرس سایت">
+  <meta property="og:site-name" content="نام صاحب سایت">
+  <meta name="og:region" content="استان">
+  <meta name="og:country-name" content="کشور">
+  <meta name="language" content="fa">
+  -->
+</head>
