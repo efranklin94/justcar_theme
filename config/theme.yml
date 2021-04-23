@@ -32,10 +32,14 @@ assets:
 
   # The following lines are showing how to load assets in your page
   # Uncomment and change value to start loading css or js files
-#  css:
-#    all:
-#      - id: custom-lib-style
-#        path: assets/css/custom-lib.css
+  css:
+    all:
+      - id: style_css
+        path: assets/css/theme.css
+      - id: owl_carousel_min_css
+        path: assets/css/owl.carousel.min.css
+      - id: owl_theme_default_min_css
+        path: assets/css/owl.theme.default.min.css
 #    product:
 #      - id: product-style
 #        path: assets/css/product.css
